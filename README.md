@@ -1,4 +1,4 @@
-# 🏎️ Slipstream Studios - Poster eCommerce App UI (Codsoft Internship Task)
+# 🏎️ Slipstream Studios - Poster eCommerce App UI
 
 Welcome to **Slipstream Studios**, a premium eCommerce app UI designed for automotive enthusiasts who appreciate the beauty of machines in motion. This design project, crafted in Figma, simulates a mobile application for selling custom car posters, made and curated by **Kingshuk Chatterjee**.
 
